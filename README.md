@@ -1,5 +1,5 @@
 # BenCore
-
+## BenCore Dashboard
 <p align="center">
   <img src="https://i.ibb.co/4Z13cVn9/Ben-Core.png" alt="Ben Core" border="0">
 </p>
@@ -12,11 +12,6 @@
   Developed by Benie Mansueto Vison
 </p>
 
----
-
-## BenCore Dashboard
-
-![BenCore Windows 11 Optimizer](images/bencore-dashboard.png)
 
 ## About BenCore
 
