@@ -159,7 +159,7 @@ More details: [User guide](docs/USER_GUIDE.md).
 Developed by **Benie Mansueto Vison**.  
 Tagline: **Optimize the Core. Unleash the Performance.**
 
-BenCore is a separate PowerShell/WPF implementation. It does **not** bundle the original TBOK batch optimizers.
+BenCore is a separate PowerShell/WPF implementation.
 
 ### Licensing
 
