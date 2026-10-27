@@ -1,5 +1,32 @@
 # BenCore
 
+<p align="center">
+  <img src="https://i.ibb.co/4Z13cVn9/Ben-Core.png" alt="Ben Core" border="0">
+</p>
+
+<h3 align="center">
+  Optimize the Core. Unleash the Performance.
+</h3>
+
+<p align="center">
+  Developed by Benie Mansueto Vison
+</p>
+
+---
+
+## BenCore Dashboard
+
+![BenCore Windows 11 Optimizer](images/bencore-dashboard.png)
+
+## About BenCore
+
+BenCore is a Windows 11 optimization utility
+featuring a modern desktop dashboard, system
+diagnostics, startup management, and reversible
+performance tweaks.
+
+# BenCore
+
 **Optimize the Core. Unleash the Performance.**
 
 **Windows 11 Optimization Engine** · **Version 1.0**  
